@@ -45,4 +45,4 @@ Run a specific test:
 
 npx playwright test tests/search-product.spec.ts
 ---------------------------------------------------------
-  GitHub_Pipeline.yaml is not an executable but as part of the assitgment
+  GitHub_Pipeline.yaml is not an executable but as part of the assigment
